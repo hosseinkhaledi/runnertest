@@ -9,3 +9,4 @@ def test_fibonacci():
 
 def test_hamed():
     assert fib(1) == 1
+    print("salm")
