@@ -1,1 +1,3 @@
+"""Normalizer module"""
 
+print("ASDsa")
