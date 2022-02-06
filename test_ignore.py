@@ -1,4 +1,5 @@
 # testing Fibonacci number function
+# pylint: skip-file
 def fib(n: int) -> int:
     return n if n < 2 else fib(n - 1) + fib(n - 2)
 
