@@ -1,5 +1,6 @@
 """Finbonachi"""
 
 
-def fib(n: int) -> int:
-    return n if n < 2 else fib(n - 1) + fib(n - 2)
+def fib(num: int) -> int:
+    """Return fibonachi"""
+    return num if num < 2 else fib(num - 1) + fib(num - 2)
